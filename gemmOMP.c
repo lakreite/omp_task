@@ -1,4 +1,4 @@
-#include "gemm.h"
+#include "gemmOMP.h"
 #include <omp.h>
 #define THREAD_NUM    16
 
